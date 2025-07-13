@@ -1,0 +1,1 @@
+This folder contains images of me and my friends which I'm not gonna upload, so if for are trying to build this project (why would you do that), replace the images with your own custom images, or if you know me, ask me for the image folder
